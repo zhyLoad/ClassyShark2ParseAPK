@@ -1,0 +1,2 @@
+# ClassyShark2ParseAPK
+使用android-classyshark工具包实现解析APK并读取包名版本信息功能
